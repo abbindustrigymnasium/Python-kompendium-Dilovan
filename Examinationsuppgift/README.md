@@ -25,4 +25,4 @@ Det gick att få den till 7 rader men de raderna blir väldigt långa. Denna är
 + Vissa delar i denna uppgfit liknar uppgiften högre upp så kolla på den först
 + I denna frågesport finns det 10 frågor
 + Du svarar på frågorna genom att enkelt skriva 1, 2  eller 3
-+ Hela uppgift 2 kriterier i miniprojektuppgiften finns i denna uppgfit
++ Alla de saker som som skulle ha med i frågesporten finns där
